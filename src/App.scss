@@ -1,0 +1,14 @@
+body {
+	margin: 0;
+	padding: 0;
+}
+
+:local .paragraph {
+	color: red;
+	font-weight: bold;
+	font-size: 32px;
+}
+
+:local(.paragraph1) {
+	color: #FFF;
+}

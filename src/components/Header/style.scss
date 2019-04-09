@@ -1,0 +1,19 @@
+:local(.header_area) {
+
+    width: 100%;
+    z-index: 9999;
+
+    .menu_nav {
+        width: 100%;
+    }
+
+    .navbar {
+        background: transparent;
+        padding: 0px;
+        border: 0px;
+        border-radius: 0px;
+        width: 100%;
+
+
+    }
+}
