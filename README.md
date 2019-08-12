@@ -1,5 +1,5 @@
 # react-route
-> This project is just for the demo purpose to familiar with React, React-Dom and React-Router.
+> This project is just for the demo purpose to familiar with React, React-Dom ,React-Router and Webpack.
 
 ## Project setup
 
